@@ -1,0 +1,13 @@
+my_task:
+  client: rtorrent
+  host: 127.0.0.1:443
+  username: sftech13
+  password: 522813mS@
+  strategies:
+    my_strategy:
+      categories:
+        - movies
+        - tvshows
+        - No Label
+      seeding_time: 1500000
+  delete_data: false

@@ -1,0 +1,1242 @@
+<?xml version="1.0" ?>
+<tv>
+  <channel id="Lincoln (CA) vs College of Idaho">
+    <display-name>Lincoln (CA) vs College of Idaho</display-name>
+  </channel>
+  <programme start="2024-08-23 21:00:00" stop="2024-08-24 07:00:00" channel="Lincoln (CA) vs College of Idaho">
+    <title>Lincoln (CA) vs College of Idaho</title>
+    <desc>Scheduled game between Lincoln (CA) and College of Idaho</desc>
+  </programme>
+  <channel id="Georgia Tech vs Florida State">
+    <display-name>Georgia Tech vs Florida State</display-name>
+  </channel>
+  <programme start="2024-08-24 09:00:00" stop="2024-08-24 19:00:00" channel="Georgia Tech vs Florida State">
+    <title>Georgia Tech vs Florida State</title>
+    <desc>Scheduled game between Georgia Tech and Florida State</desc>
+  </programme>
+  <channel id="Tarleton State vs McNeese">
+    <display-name>Tarleton State vs McNeese</display-name>
+  </channel>
+  <programme start="2024-08-24 12:30:00" stop="2024-08-24 22:30:00" channel="Tarleton State vs McNeese">
+    <title>Tarleton State vs McNeese</title>
+    <desc>Scheduled game between Tarleton State and McNeese</desc>
+  </programme>
+  <channel id="New Mexico vs Montana State">
+    <display-name>New Mexico vs Montana State</display-name>
+  </channel>
+  <programme start="2024-08-24 13:00:00" stop="2024-08-24 23:00:00" channel="New Mexico vs Montana State">
+    <title>New Mexico vs Montana State</title>
+    <desc>Scheduled game between New Mexico and Montana State</desc>
+  </programme>
+  <channel id="Southeast Missouri State vs North Alabama">
+    <display-name>Southeast Missouri State vs North Alabama</display-name>
+  </channel>
+  <programme start="2024-08-24 16:00:00" stop="2024-08-25 02:00:00" channel="Southeast Missouri State vs North Alabama">
+    <title>Southeast Missouri State vs North Alabama</title>
+    <desc>Scheduled game between Southeast Missouri State and North Alabama</desc>
+  </programme>
+  <channel id="Norfolk State vs Florida A&amp;M">
+    <display-name>Norfolk State vs Florida A&amp;M</display-name>
+  </channel>
+  <programme start="2024-08-24 16:30:00" stop="2024-08-25 02:30:00" channel="Norfolk State vs Florida A&amp;M">
+    <title>Norfolk State vs Florida A&amp;M</title>
+    <desc>Scheduled game between Norfolk State and Florida A&amp;M</desc>
+  </programme>
+  <channel id="Nevada vs SMU">
+    <display-name>Nevada vs SMU</display-name>
+  </channel>
+  <programme start="2024-08-24 17:00:00" stop="2024-08-25 03:00:00" channel="Nevada vs SMU">
+    <title>Nevada vs SMU</title>
+    <desc>Scheduled game between Nevada and SMU</desc>
+  </programme>
+  <channel id="Hawai'i vs Delaware State">
+    <display-name>Hawai'i vs Delaware State</display-name>
+  </channel>
+  <programme start="2024-08-24 20:59:00" stop="2024-08-25 06:59:00" channel="Hawai'i vs Delaware State">
+    <title>Hawai'i vs Delaware State</title>
+    <desc>Scheduled game between Hawai'i and Delaware State</desc>
+  </programme>
+  <channel id="Sul Ross State vs West Texas A&amp;M">
+    <display-name>Sul Ross State vs West Texas A&amp;M</display-name>
+  </channel>
+  <programme start="2024-08-28 21:00:00" stop="2024-08-29 07:00:00" channel="Sul Ross State vs West Texas A&amp;M">
+    <title>Sul Ross State vs West Texas A&amp;M</title>
+    <desc>Scheduled game between Sul Ross State and West Texas A&amp;M</desc>
+  </programme>
+  <channel id="Rutgers vs Howard">
+    <display-name>Rutgers vs Howard</display-name>
+  </channel>
+  <programme start="2024-08-29 15:00:00" stop="2024-08-30 01:00:00" channel="Rutgers vs Howard">
+    <title>Rutgers vs Howard</title>
+    <desc>Scheduled game between Rutgers and Howard</desc>
+  </programme>
+  <channel id="Northern Michigan vs Minnesota Duluth">
+    <display-name>Northern Michigan vs Minnesota Duluth</display-name>
+  </channel>
+  <programme start="2024-08-29 15:00:00" stop="2024-08-30 01:00:00" channel="Northern Michigan vs Minnesota Duluth">
+    <title>Northern Michigan vs Minnesota Duluth</title>
+    <desc>Scheduled game between Northern Michigan and Minnesota Duluth</desc>
+  </programme>
+  <channel id="Morehead State vs Central State (OH)">
+    <display-name>Morehead State vs Central State (OH)</display-name>
+  </channel>
+  <programme start="2024-08-29 15:00:00" stop="2024-08-30 01:00:00" channel="Morehead State vs Central State (OH)">
+    <title>Morehead State vs Central State (OH)</title>
+    <desc>Scheduled game between Morehead State and Central State (OH)</desc>
+  </programme>
+  <channel id="Carson-Newman College vs Reinhardt University">
+    <display-name>Carson-Newman College vs Reinhardt University</display-name>
+  </channel>
+  <programme start="2024-08-29 15:00:00" stop="2024-08-30 01:00:00" channel="Carson-Newman College vs Reinhardt University">
+    <title>Carson-Newman College vs Reinhardt University</title>
+    <desc>Scheduled game between Carson-Newman College and Reinhardt University</desc>
+  </programme>
+  <channel id="Villanova vs Youngstown State">
+    <display-name>Villanova vs Youngstown State</display-name>
+  </channel>
+  <programme start="2024-08-29 15:00:00" stop="2024-08-30 01:00:00" channel="Villanova vs Youngstown State">
+    <title>Villanova vs Youngstown State</title>
+    <desc>Scheduled game between Villanova and Youngstown State</desc>
+  </programme>
+  <channel id="Wake Forest vs North Carolina A&amp;T">
+    <display-name>Wake Forest vs North Carolina A&amp;T</display-name>
+  </channel>
+  <programme start="2024-08-29 16:00:00" stop="2024-08-30 02:00:00" channel="Wake Forest vs North Carolina A&amp;T">
+    <title>Wake Forest vs North Carolina A&amp;T</title>
+    <desc>Scheduled game between Wake Forest and North Carolina A&amp;T</desc>
+  </programme>
+  <channel id="West Liberty vs Walsh">
+    <display-name>West Liberty vs Walsh</display-name>
+  </channel>
+  <programme start="2024-08-29 16:00:00" stop="2024-08-30 02:00:00" channel="West Liberty vs Walsh">
+    <title>West Liberty vs Walsh</title>
+    <desc>Scheduled game between West Liberty and Walsh</desc>
+  </programme>
+  <channel id="UCF vs New Hampshire">
+    <display-name>UCF vs New Hampshire</display-name>
+  </channel>
+  <programme start="2024-08-29 16:00:00" stop="2024-08-30 02:00:00" channel="UCF vs New Hampshire">
+    <title>UCF vs New Hampshire</title>
+    <desc>Scheduled game between UCF and New Hampshire</desc>
+  </programme>
+  <channel id="Millersville vs Clarion">
+    <display-name>Millersville vs Clarion</display-name>
+  </channel>
+  <programme start="2024-08-29 16:00:00" stop="2024-08-30 02:00:00" channel="Millersville vs Clarion">
+    <title>Millersville vs Clarion</title>
+    <desc>Scheduled game between Millersville and Clarion</desc>
+  </programme>
+  <channel id="Fairmont State vs Seton Hill">
+    <display-name>Fairmont State vs Seton Hill</display-name>
+  </channel>
+  <programme start="2024-08-29 16:00:00" stop="2024-08-30 02:00:00" channel="Fairmont State vs Seton Hill">
+    <title>Fairmont State vs Seton Hill</title>
+    <desc>Scheduled game between Fairmont State and Seton Hill</desc>
+  </programme>
+  <channel id="Edinboro University vs East Stroudsburg University">
+    <display-name>Edinboro University vs East Stroudsburg University</display-name>
+  </channel>
+  <programme start="2024-08-29 16:00:00" stop="2024-08-30 02:00:00" channel="Edinboro University vs East Stroudsburg University">
+    <title>Edinboro University vs East Stroudsburg University</title>
+    <desc>Scheduled game between Edinboro University and East Stroudsburg University</desc>
+  </programme>
+  <channel id="Bemidji State vs Michigan Tech">
+    <display-name>Bemidji State vs Michigan Tech</display-name>
+  </channel>
+  <programme start="2024-08-29 16:00:00" stop="2024-08-30 02:00:00" channel="Bemidji State vs Michigan Tech">
+    <title>Bemidji State vs Michigan Tech</title>
+    <desc>Scheduled game between Bemidji State and Michigan Tech</desc>
+  </programme>
+  <channel id="Northwest Missouri St vs Minnesota State Mankato">
+    <display-name>Northwest Missouri St vs Minnesota State Mankato</display-name>
+  </channel>
+  <programme start="2024-08-29 16:00:00" stop="2024-08-30 02:00:00" channel="Northwest Missouri St vs Minnesota State Mankato">
+    <title>Northwest Missouri St vs Minnesota State Mankato</title>
+    <desc>Scheduled game between Northwest Missouri St and Minnesota State Mankato</desc>
+  </programme>
+  <channel id="Wayne State (NE) vs Missouri S&amp;T">
+    <display-name>Wayne State (NE) vs Missouri S&amp;T</display-name>
+  </channel>
+  <programme start="2024-08-29 16:00:00" stop="2024-08-30 02:00:00" channel="Wayne State (NE) vs Missouri S&amp;T">
+    <title>Wayne State (NE) vs Missouri S&amp;T</title>
+    <desc>Scheduled game between Wayne State (NE) and Missouri S&amp;T</desc>
+  </programme>
+  <channel id="Central Michigan vs Central Connecticut">
+    <display-name>Central Michigan vs Central Connecticut</display-name>
+  </channel>
+  <programme start="2024-08-29 16:00:00" stop="2024-08-30 02:00:00" channel="Central Michigan vs Central Connecticut">
+    <title>Central Michigan vs Central Connecticut</title>
+    <desc>Scheduled game between Central Michigan and Central Connecticut</desc>
+  </programme>
+  <channel id="Northeastern State vs Missouri Western">
+    <display-name>Northeastern State vs Missouri Western</display-name>
+  </channel>
+  <programme start="2024-08-29 16:00:00" stop="2024-08-30 02:00:00" channel="Northeastern State vs Missouri Western">
+    <title>Northeastern State vs Missouri Western</title>
+    <desc>Scheduled game between Northeastern State and Missouri Western</desc>
+  </programme>
+  <channel id="Mars Hill vs Delta State">
+    <display-name>Mars Hill vs Delta State</display-name>
+  </channel>
+  <programme start="2024-08-29 16:00:00" stop="2024-08-30 02:00:00" channel="Mars Hill vs Delta State">
+    <title>Mars Hill vs Delta State</title>
+    <desc>Scheduled game between Mars Hill and Delta State</desc>
+  </programme>
+  <channel id="Bowling Green vs Fordham">
+    <display-name>Bowling Green vs Fordham</display-name>
+  </channel>
+  <programme start="2024-08-29 16:00:00" stop="2024-08-30 02:00:00" channel="Bowling Green vs Fordham">
+    <title>Bowling Green vs Fordham</title>
+    <desc>Scheduled game between Bowling Green and Fordham</desc>
+  </programme>
+  <channel id="UL Monroe vs Jackson State">
+    <display-name>UL Monroe vs Jackson State</display-name>
+  </channel>
+  <programme start="2024-08-29 16:00:00" stop="2024-08-30 02:00:00" channel="UL Monroe vs Jackson State">
+    <title>UL Monroe vs Jackson State</title>
+    <desc>Scheduled game between UL Monroe and Jackson State</desc>
+  </programme>
+  <channel id="Buffalo vs Lafayette">
+    <display-name>Buffalo vs Lafayette</display-name>
+  </channel>
+  <programme start="2024-08-29 16:00:00" stop="2024-08-30 02:00:00" channel="Buffalo vs Lafayette">
+    <title>Buffalo vs Lafayette</title>
+    <desc>Scheduled game between Buffalo and Lafayette</desc>
+  </programme>
+  <channel id="Mercer vs Presbyterian">
+    <display-name>Mercer vs Presbyterian</display-name>
+  </channel>
+  <programme start="2024-08-29 16:00:00" stop="2024-08-30 02:00:00" channel="Mercer vs Presbyterian">
+    <title>Mercer vs Presbyterian</title>
+    <desc>Scheduled game between Mercer and Presbyterian</desc>
+  </programme>
+  <channel id="University of Mary vs Jamestown College">
+    <display-name>University of Mary vs Jamestown College</display-name>
+  </channel>
+  <programme start="2024-08-29 16:00:00" stop="2024-08-30 02:00:00" channel="University of Mary vs Jamestown College">
+    <title>University of Mary vs Jamestown College</title>
+    <desc>Scheduled game between University of Mary and Jamestown College</desc>
+  </programme>
+  <channel id="William &amp; Mary vs VMI">
+    <display-name>William &amp; Mary vs VMI</display-name>
+  </channel>
+  <programme start="2024-08-29 16:00:00" stop="2024-08-30 02:00:00" channel="William &amp; Mary vs VMI">
+    <title>William &amp; Mary vs VMI</title>
+    <desc>Scheduled game between William &amp; Mary and VMI</desc>
+  </programme>
+  <channel id="NC State vs Western Carolina">
+    <display-name>NC State vs Western Carolina</display-name>
+  </channel>
+  <programme start="2024-08-29 16:00:00" stop="2024-08-30 02:00:00" channel="NC State vs Western Carolina">
+    <title>NC State vs Western Carolina</title>
+    <desc>Scheduled game between NC State and Western Carolina</desc>
+  </programme>
+  <channel id="Gardner-Webb vs Wofford">
+    <display-name>Gardner-Webb vs Wofford</display-name>
+  </channel>
+  <programme start="2024-08-29 16:00:00" stop="2024-08-30 02:00:00" channel="Gardner-Webb vs Wofford">
+    <title>Gardner-Webb vs Wofford</title>
+    <desc>Scheduled game between Gardner-Webb and Wofford</desc>
+  </programme>
+  <channel id="Wheeling vs Mercyhurst">
+    <display-name>Wheeling vs Mercyhurst</display-name>
+  </channel>
+  <programme start="2024-08-29 16:00:00" stop="2024-08-30 02:00:00" channel="Wheeling vs Mercyhurst">
+    <title>Wheeling vs Mercyhurst</title>
+    <desc>Scheduled game between Wheeling and Mercyhurst</desc>
+  </programme>
+  <channel id="Delaware vs Bryant">
+    <display-name>Delaware vs Bryant</display-name>
+  </channel>
+  <programme start="2024-08-29 16:00:00" stop="2024-08-30 02:00:00" channel="Delaware vs Bryant">
+    <title>Delaware vs Bryant</title>
+    <desc>Scheduled game between Delaware and Bryant</desc>
+  </programme>
+  <channel id="Minot State vs Valley City State">
+    <display-name>Minot State vs Valley City State</display-name>
+  </channel>
+  <programme start="2024-08-29 16:00:00" stop="2024-08-30 02:00:00" channel="Minot State vs Valley City State">
+    <title>Minot State vs Valley City State</title>
+    <desc>Scheduled game between Minot State and Valley City State</desc>
+  </programme>
+  <channel id="Drake vs Quincy">
+    <display-name>Drake vs Quincy</display-name>
+  </channel>
+  <programme start="2024-08-29 16:30:00" stop="2024-08-30 02:30:00" channel="Drake vs Quincy">
+    <title>Drake vs Quincy</title>
+    <desc>Scheduled game between Drake and Quincy</desc>
+  </programme>
+  <channel id="Toledo vs Duquesne">
+    <display-name>Toledo vs Duquesne</display-name>
+  </channel>
+  <programme start="2024-08-29 16:30:00" stop="2024-08-30 02:30:00" channel="Toledo vs Duquesne">
+    <title>Toledo vs Duquesne</title>
+    <desc>Scheduled game between Toledo and Duquesne</desc>
+  </programme>
+  <channel id="Arkansas vs Arkansas-Pine Bluff">
+    <display-name>Arkansas vs Arkansas-Pine Bluff</display-name>
+  </channel>
+  <programme start="2024-08-29 16:30:00" stop="2024-08-30 02:30:00" channel="Arkansas vs Arkansas-Pine Bluff">
+    <title>Arkansas vs Arkansas-Pine Bluff</title>
+    <desc>Scheduled game between Arkansas and Arkansas-Pine Bluff</desc>
+  </programme>
+  <channel id="Midwestern State vs Missouri Southern State">
+    <display-name>Midwestern State vs Missouri Southern State</display-name>
+  </channel>
+  <programme start="2024-08-29 17:00:00" stop="2024-08-30 03:00:00" channel="Midwestern State vs Missouri Southern State">
+    <title>Midwestern State vs Missouri Southern State</title>
+    <desc>Scheduled game between Midwestern State and Missouri Southern State</desc>
+  </programme>
+  <channel id="Colorado vs North Dakota State">
+    <display-name>Colorado vs North Dakota State</display-name>
+  </channel>
+  <programme start="2024-08-29 17:00:00" stop="2024-08-30 03:00:00" channel="Colorado vs North Dakota State">
+    <title>Colorado vs North Dakota State</title>
+    <desc>Scheduled game between Colorado and North Dakota State</desc>
+  </programme>
+  <channel id="South Dakota vs Northern State">
+    <display-name>South Dakota vs Northern State</display-name>
+  </channel>
+  <programme start="2024-08-29 17:00:00" stop="2024-08-30 03:00:00" channel="South Dakota vs Northern State">
+    <title>South Dakota vs Northern State</title>
+    <desc>Scheduled game between South Dakota and Northern State</desc>
+  </programme>
+  <channel id="St. Thomas (MN) vs Sioux Falls">
+    <display-name>St. Thomas (MN) vs Sioux Falls</display-name>
+  </channel>
+  <programme start="2024-08-29 17:00:00" stop="2024-08-30 03:00:00" channel="St. Thomas (MN) vs Sioux Falls">
+    <title>St. Thomas (MN) vs Sioux Falls</title>
+    <desc>Scheduled game between St. Thomas (MN) and Sioux Falls</desc>
+  </programme>
+  <channel id="Kansas vs Lindenwood">
+    <display-name>Kansas vs Lindenwood</display-name>
+  </channel>
+  <programme start="2024-08-29 17:00:00" stop="2024-08-30 03:00:00" channel="Kansas vs Lindenwood">
+    <title>Kansas vs Lindenwood</title>
+    <desc>Scheduled game between Kansas and Lindenwood</desc>
+  </programme>
+  <channel id="Missouri vs Murray State">
+    <display-name>Missouri vs Murray State</display-name>
+  </channel>
+  <programme start="2024-08-29 17:00:00" stop="2024-08-30 03:00:00" channel="Missouri vs Murray State">
+    <title>Missouri vs Murray State</title>
+    <desc>Scheduled game between Missouri and Murray State</desc>
+  </programme>
+  <channel id="Minnesota vs North Carolina">
+    <display-name>Minnesota vs North Carolina</display-name>
+  </channel>
+  <programme start="2024-08-29 17:00:00" stop="2024-08-30 03:00:00" channel="Minnesota vs North Carolina">
+    <title>Minnesota vs North Carolina</title>
+    <desc>Scheduled game between Minnesota and North Carolina</desc>
+  </programme>
+  <channel id="Emporia State University vs Washburn">
+    <display-name>Emporia State University vs Washburn</display-name>
+  </channel>
+  <programme start="2024-08-29 17:00:00" stop="2024-08-30 03:00:00" channel="Emporia State University vs Washburn">
+    <title>Emporia State University vs Washburn</title>
+    <desc>Scheduled game between Emporia State University and Washburn</desc>
+  </programme>
+  <channel id="Jacksonville State vs Coastal Carolina">
+    <display-name>Jacksonville State vs Coastal Carolina</display-name>
+  </channel>
+  <programme start="2024-08-29 17:00:00" stop="2024-08-30 03:00:00" channel="Jacksonville State vs Coastal Carolina">
+    <title>Jacksonville State vs Coastal Carolina</title>
+    <desc>Scheduled game between Jacksonville State and Coastal Carolina</desc>
+  </programme>
+  <channel id="Chadron St vs Nebraska-Kearney">
+    <display-name>Chadron St vs Nebraska-Kearney</display-name>
+  </channel>
+  <programme start="2024-08-29 17:00:00" stop="2024-08-30 03:00:00" channel="Chadron St vs Nebraska-Kearney">
+    <title>Chadron St vs Nebraska-Kearney</title>
+    <desc>Scheduled game between Chadron St and Nebraska-Kearney</desc>
+  </programme>
+  <channel id="New Mexico Highlands vs Eastern New Mexico">
+    <display-name>New Mexico Highlands vs Eastern New Mexico</display-name>
+  </channel>
+  <programme start="2024-08-29 17:00:00" stop="2024-08-30 03:00:00" channel="New Mexico Highlands vs Eastern New Mexico">
+    <title>New Mexico Highlands vs Eastern New Mexico</title>
+    <desc>Scheduled game between New Mexico Highlands and Eastern New Mexico</desc>
+  </programme>
+  <channel id="Fort Hays State vs Angelo State">
+    <display-name>Fort Hays State vs Angelo State</display-name>
+  </channel>
+  <programme start="2024-08-29 17:00:00" stop="2024-08-30 03:00:00" channel="Fort Hays State vs Angelo State">
+    <title>Fort Hays State vs Angelo State</title>
+    <desc>Scheduled game between Fort Hays State and Angelo State</desc>
+  </programme>
+  <channel id="UAB vs Alcorn State">
+    <display-name>UAB vs Alcorn State</display-name>
+  </channel>
+  <programme start="2024-08-29 17:00:00" stop="2024-08-30 03:00:00" channel="UAB vs Alcorn State">
+    <title>UAB vs Alcorn State</title>
+    <desc>Scheduled game between UAB and Alcorn State</desc>
+  </programme>
+  <channel id="South Dakota Mines vs CSU Pueblo">
+    <display-name>South Dakota Mines vs CSU Pueblo</display-name>
+  </channel>
+  <programme start="2024-08-29 17:00:00" stop="2024-08-30 03:00:00" channel="South Dakota Mines vs CSU Pueblo">
+    <title>South Dakota Mines vs CSU Pueblo</title>
+    <desc>Scheduled game between South Dakota Mines and CSU Pueblo</desc>
+  </programme>
+  <channel id="Texas A&amp;M-Kingsville vs Colorado Mesa">
+    <display-name>Texas A&amp;M-Kingsville vs Colorado Mesa</display-name>
+  </channel>
+  <programme start="2024-08-29 17:00:00" stop="2024-08-30 03:00:00" channel="Texas A&amp;M-Kingsville vs Colorado Mesa">
+    <title>Texas A&amp;M-Kingsville vs Colorado Mesa</title>
+    <desc>Scheduled game between Texas A&amp;M-Kingsville and Colorado Mesa</desc>
+  </programme>
+  <channel id="Tulsa vs Northwestern State">
+    <display-name>Tulsa vs Northwestern State</display-name>
+  </channel>
+  <programme start="2024-08-29 17:00:00" stop="2024-08-30 03:00:00" channel="Tulsa vs Northwestern State">
+    <title>Tulsa vs Northwestern State</title>
+    <desc>Scheduled game between Tulsa and Northwestern State</desc>
+  </programme>
+  <channel id="Tulane vs SE Louisiana">
+    <display-name>Tulane vs SE Louisiana</display-name>
+  </channel>
+  <programme start="2024-08-29 17:00:00" stop="2024-08-30 03:00:00" channel="Tulane vs SE Louisiana">
+    <title>Tulane vs SE Louisiana</title>
+    <desc>Scheduled game between Tulane and SE Louisiana</desc>
+  </programme>
+  <channel id="Stephen F. Austin vs North American University">
+    <display-name>Stephen F. Austin vs North American University</display-name>
+  </channel>
+  <programme start="2024-08-29 17:00:00" stop="2024-08-30 03:00:00" channel="Stephen F. Austin vs North American University">
+    <title>Stephen F. Austin vs North American University</title>
+    <desc>Scheduled game between Stephen F. Austin and North American University</desc>
+  </programme>
+  <channel id="Utah vs Southern Utah">
+    <display-name>Utah vs Southern Utah</display-name>
+  </channel>
+  <programme start="2024-08-29 18:00:00" stop="2024-08-30 04:00:00" channel="Utah vs Southern Utah">
+    <title>Utah vs Southern Utah</title>
+    <desc>Scheduled game between Utah and Southern Utah</desc>
+  </programme>
+  <channel id="Eastern Washington vs Monmouth">
+    <display-name>Eastern Washington vs Monmouth</display-name>
+  </channel>
+  <programme start="2024-08-29 18:00:00" stop="2024-08-30 04:00:00" channel="Eastern Washington vs Monmouth">
+    <title>Eastern Washington vs Monmouth</title>
+    <desc>Scheduled game between Eastern Washington and Monmouth</desc>
+  </programme>
+  <channel id="Illinois vs Eastern Illinois">
+    <display-name>Illinois vs Eastern Illinois</display-name>
+  </channel>
+  <programme start="2024-08-29 18:00:00" stop="2024-08-30 04:00:00" channel="Illinois vs Eastern Illinois">
+    <title>Illinois vs Eastern Illinois</title>
+    <desc>Scheduled game between Illinois and Eastern Illinois</desc>
+  </programme>
+  <channel id="San José State vs Sacramento State">
+    <display-name>San José State vs Sacramento State</display-name>
+  </channel>
+  <programme start="2024-08-29 19:00:00" stop="2024-08-30 05:00:00" channel="San José State vs Sacramento State">
+    <title>San José State vs Sacramento State</title>
+    <desc>Scheduled game between San José State and Sacramento State</desc>
+  </programme>
+  <channel id="Army vs Lehigh">
+    <display-name>Army vs Lehigh</display-name>
+  </channel>
+  <programme start="2024-08-30 15:00:00" stop="2024-08-31 01:00:00" channel="Army vs Lehigh">
+    <title>Army vs Lehigh</title>
+    <desc>Scheduled game between Army and Lehigh</desc>
+  </programme>
+  <channel id="Oklahoma vs Temple">
+    <display-name>Oklahoma vs Temple</display-name>
+  </channel>
+  <programme start="2024-08-30 16:00:00" stop="2024-08-31 02:00:00" channel="Oklahoma vs Temple">
+    <title>Oklahoma vs Temple</title>
+    <desc>Scheduled game between Oklahoma and Temple</desc>
+  </programme>
+  <channel id="Maine vs Colgate">
+    <display-name>Maine vs Colgate</display-name>
+  </channel>
+  <programme start="2024-08-30 16:00:00" stop="2024-08-31 02:00:00" channel="Maine vs Colgate">
+    <title>Maine vs Colgate</title>
+    <desc>Scheduled game between Maine and Colgate</desc>
+  </programme>
+  <channel id="Michigan State vs Florida Atlantic">
+    <display-name>Michigan State vs Florida Atlantic</display-name>
+  </channel>
+  <programme start="2024-08-30 16:00:00" stop="2024-08-31 02:00:00" channel="Michigan State vs Florida Atlantic">
+    <title>Michigan State vs Florida Atlantic</title>
+    <desc>Scheduled game between Michigan State and Florida Atlantic</desc>
+  </programme>
+  <channel id="Duke vs Elon">
+    <display-name>Duke vs Elon</display-name>
+  </channel>
+  <programme start="2024-08-30 16:30:00" stop="2024-08-31 02:30:00" channel="Duke vs Elon">
+    <title>Duke vs Elon</title>
+    <desc>Scheduled game between Duke and Elon</desc>
+  </programme>
+  <channel id="Wisconsin vs Western Michigan">
+    <display-name>Wisconsin vs Western Michigan</display-name>
+  </channel>
+  <programme start="2024-08-30 18:00:00" stop="2024-08-31 04:00:00" channel="Wisconsin vs Western Michigan">
+    <title>Wisconsin vs Western Michigan</title>
+    <desc>Scheduled game between Wisconsin and Western Michigan</desc>
+  </programme>
+  <channel id="Stanford vs TCU">
+    <display-name>Stanford vs TCU</display-name>
+  </channel>
+  <programme start="2024-08-30 19:30:00" stop="2024-08-31 05:30:00" channel="Stanford vs TCU">
+    <title>Stanford vs TCU</title>
+    <desc>Scheduled game between Stanford and TCU</desc>
+  </programme>
+  <channel id="Utah State vs Robert Morris">
+    <display-name>Utah State vs Robert Morris</display-name>
+  </channel>
+  <programme start="2024-08-30 21:00:00" stop="2024-08-31 07:00:00" channel="Utah State vs Robert Morris">
+    <title>Utah State vs Robert Morris</title>
+    <desc>Scheduled game between Utah State and Robert Morris</desc>
+  </programme>
+  <channel id="Georgia vs Clemson">
+    <display-name>Georgia vs Clemson</display-name>
+  </channel>
+  <programme start="2024-08-31 09:00:00" stop="2024-08-31 19:00:00" channel="Georgia vs Clemson">
+    <title>Georgia vs Clemson</title>
+    <desc>Scheduled game between Georgia and Clemson</desc>
+  </programme>
+  <channel id="Wagner vs Virginia University Of Lynchburg">
+    <display-name>Wagner vs Virginia University Of Lynchburg</display-name>
+  </channel>
+  <programme start="2024-08-31 09:00:00" stop="2024-08-31 19:00:00" channel="Wagner vs Virginia University Of Lynchburg">
+    <title>Wagner vs Virginia University Of Lynchburg</title>
+    <desc>Scheduled game between Wagner and Virginia University Of Lynchburg</desc>
+  </programme>
+  <channel id="Purdue vs Indiana State">
+    <display-name>Purdue vs Indiana State</display-name>
+  </channel>
+  <programme start="2024-08-31 09:00:00" stop="2024-08-31 19:00:00" channel="Purdue vs Indiana State">
+    <title>Purdue vs Indiana State</title>
+    <desc>Scheduled game between Purdue and Indiana State</desc>
+  </programme>
+  <channel id="Navy vs Bucknell">
+    <display-name>Navy vs Bucknell</display-name>
+  </channel>
+  <programme start="2024-08-31 09:00:00" stop="2024-08-31 19:00:00" channel="Navy vs Bucknell">
+    <title>Navy vs Bucknell</title>
+    <desc>Scheduled game between Navy and Bucknell</desc>
+  </programme>
+  <channel id="Iowa vs Illinois State">
+    <display-name>Iowa vs Illinois State</display-name>
+  </channel>
+  <programme start="2024-08-31 09:00:00" stop="2024-08-31 19:00:00" channel="Iowa vs Illinois State">
+    <title>Iowa vs Illinois State</title>
+    <desc>Scheduled game between Iowa and Illinois State</desc>
+  </programme>
+  <channel id="Maryland vs UConn">
+    <display-name>Maryland vs UConn</display-name>
+  </channel>
+  <programme start="2024-08-31 09:00:00" stop="2024-08-31 19:00:00" channel="Maryland vs UConn">
+    <title>Maryland vs UConn</title>
+    <desc>Scheduled game between Maryland and UConn</desc>
+  </programme>
+  <channel id="West Virginia vs Penn State">
+    <display-name>West Virginia vs Penn State</display-name>
+  </channel>
+  <programme start="2024-08-31 09:00:00" stop="2024-08-31 19:00:00" channel="West Virginia vs Penn State">
+    <title>West Virginia vs Penn State</title>
+    <desc>Scheduled game between West Virginia and Penn State</desc>
+  </programme>
+  <channel id="Louisville vs Austin Peay">
+    <display-name>Louisville vs Austin Peay</display-name>
+  </channel>
+  <programme start="2024-08-31 09:00:00" stop="2024-08-31 19:00:00" channel="Louisville vs Austin Peay">
+    <title>Louisville vs Austin Peay</title>
+    <desc>Scheduled game between Louisville and Austin Peay</desc>
+  </programme>
+  <channel id="Pittsburgh vs Kent State">
+    <display-name>Pittsburgh vs Kent State</display-name>
+  </channel>
+  <programme start="2024-08-31 09:00:00" stop="2024-08-31 19:00:00" channel="Pittsburgh vs Kent State">
+    <title>Pittsburgh vs Kent State</title>
+    <desc>Scheduled game between Pittsburgh and Kent State</desc>
+  </programme>
+  <channel id="Dayton vs St. Francis (PA)">
+    <display-name>Dayton vs St. Francis (PA)</display-name>
+  </channel>
+  <programme start="2024-08-31 09:00:00" stop="2024-08-31 19:00:00" channel="Dayton vs St. Francis (PA)">
+    <title>Dayton vs St. Francis (PA)</title>
+    <desc>Scheduled game between Dayton and St. Francis (PA)</desc>
+  </programme>
+  <channel id="Vanderbilt vs Virginia Tech">
+    <display-name>Vanderbilt vs Virginia Tech</display-name>
+  </channel>
+  <programme start="2024-08-31 09:00:00" stop="2024-08-31 19:00:00" channel="Vanderbilt vs Virginia Tech">
+    <title>Vanderbilt vs Virginia Tech</title>
+    <desc>Scheduled game between Vanderbilt and Virginia Tech</desc>
+  </programme>
+  <channel id="Georgetown vs Davidson">
+    <display-name>Georgetown vs Davidson</display-name>
+  </channel>
+  <programme start="2024-08-31 09:30:00" stop="2024-08-31 19:30:00" channel="Georgetown vs Davidson">
+    <title>Georgetown vs Davidson</title>
+    <desc>Scheduled game between Georgetown and Davidson</desc>
+  </programme>
+  <channel id="Tennessee vs Chattanooga">
+    <display-name>Tennessee vs Chattanooga</display-name>
+  </channel>
+  <programme start="2024-08-31 09:45:00" stop="2024-08-31 19:45:00" channel="Tennessee vs Chattanooga">
+    <title>Tennessee vs Chattanooga</title>
+    <desc>Scheduled game between Tennessee and Chattanooga</desc>
+  </programme>
+  <channel id="Emory &amp; Henry College vs Glenville State">
+    <display-name>Emory &amp; Henry College vs Glenville State</display-name>
+  </channel>
+  <programme start="2024-08-31 10:00:00" stop="2024-08-31 20:00:00" channel="Emory &amp; Henry College vs Glenville State">
+    <title>Emory &amp; Henry College vs Glenville State</title>
+    <desc>Scheduled game between Emory &amp; Henry College and Glenville State</desc>
+  </programme>
+  <channel id="Shaw vs Elizabeth City State">
+    <display-name>Shaw vs Elizabeth City State</display-name>
+  </channel>
+  <programme start="2024-08-31 10:00:00" stop="2024-08-31 20:00:00" channel="Shaw vs Elizabeth City State">
+    <title>Shaw vs Elizabeth City State</title>
+    <desc>Scheduled game between Shaw and Elizabeth City State</desc>
+  </programme>
+  <channel id="Bluefield State vs Winston-Salem">
+    <display-name>Bluefield State vs Winston-Salem</display-name>
+  </channel>
+  <programme start="2024-08-31 10:00:00" stop="2024-08-31 20:00:00" channel="Bluefield State vs Winston-Salem">
+    <title>Bluefield State vs Winston-Salem</title>
+    <desc>Scheduled game between Bluefield State and Winston-Salem</desc>
+  </programme>
+  <channel id="Fort Valley State vs Clark Atlanta">
+    <display-name>Fort Valley State vs Clark Atlanta</display-name>
+  </channel>
+  <programme start="2024-08-31 10:00:00" stop="2024-08-31 20:00:00" channel="Fort Valley State vs Clark Atlanta">
+    <title>Fort Valley State vs Clark Atlanta</title>
+    <desc>Scheduled game between Fort Valley State and Clark Atlanta</desc>
+  </programme>
+  <channel id="Butler vs Upper Iowa University">
+    <display-name>Butler vs Upper Iowa University</display-name>
+  </channel>
+  <programme start="2024-08-31 10:00:00" stop="2024-08-31 20:00:00" channel="Butler vs Upper Iowa University">
+    <title>Butler vs Upper Iowa University</title>
+    <desc>Scheduled game between Butler and Upper Iowa University</desc>
+  </programme>
+  <channel id="Post University vs West Virginia Wesleyan">
+    <display-name>Post University vs West Virginia Wesleyan</display-name>
+  </channel>
+  <programme start="2024-08-31 10:00:00" stop="2024-08-31 20:00:00" channel="Post University vs West Virginia Wesleyan">
+    <title>Post University vs West Virginia Wesleyan</title>
+    <desc>Scheduled game between Post University and West Virginia Wesleyan</desc>
+  </programme>
+  <channel id="Oklahoma State vs South Dakota State">
+    <display-name>Oklahoma State vs South Dakota State</display-name>
+  </channel>
+  <programme start="2024-08-31 11:00:00" stop="2024-08-31 21:00:00" channel="Oklahoma State vs South Dakota State">
+    <title>Oklahoma State vs South Dakota State</title>
+    <desc>Scheduled game between Oklahoma State and South Dakota State</desc>
+  </programme>
+  <channel id="Cincinnati vs Towson">
+    <display-name>Cincinnati vs Towson</display-name>
+  </channel>
+  <programme start="2024-08-31 11:30:00" stop="2024-08-31 21:30:00" channel="Cincinnati vs Towson">
+    <title>Cincinnati vs Towson</title>
+    <desc>Scheduled game between Cincinnati and Towson</desc>
+  </programme>
+  <channel id="ERSKINE vs Laurinburg">
+    <display-name>ERSKINE vs Laurinburg</display-name>
+  </channel>
+  <programme start="2024-08-31 12:00:00" stop="2024-08-31 22:00:00" channel="ERSKINE vs Laurinburg">
+    <title>ERSKINE vs Laurinburg</title>
+    <desc>Scheduled game between ERSKINE and Laurinburg</desc>
+  </programme>
+  <channel id="Morehouse College vs Edward Waters">
+    <display-name>Morehouse College vs Edward Waters</display-name>
+  </channel>
+  <programme start="2024-08-31 12:00:00" stop="2024-08-31 22:00:00" channel="Morehouse College vs Edward Waters">
+    <title>Morehouse College vs Edward Waters</title>
+    <desc>Scheduled game between Morehouse College and Edward Waters</desc>
+  </programme>
+  <channel id="Kentucky State vs Virginia Union">
+    <display-name>Kentucky State vs Virginia Union</display-name>
+  </channel>
+  <programme start="2024-08-31 12:00:00" stop="2024-08-31 22:00:00" channel="Kentucky State vs Virginia Union">
+    <title>Kentucky State vs Virginia Union</title>
+    <desc>Scheduled game between Kentucky State and Virginia Union</desc>
+  </programme>
+  <channel id="Washington State vs Portland State">
+    <display-name>Washington State vs Portland State</display-name>
+  </channel>
+  <programme start="2024-08-31 12:00:00" stop="2024-08-31 22:00:00" channel="Washington State vs Portland State">
+    <title>Washington State vs Portland State</title>
+    <desc>Scheduled game between Washington State and Portland State</desc>
+  </programme>
+  <channel id="Indiana vs Florida International">
+    <display-name>Indiana vs Florida International</display-name>
+  </channel>
+  <programme start="2024-08-31 12:30:00" stop="2024-08-31 22:30:00" channel="Indiana vs Florida International">
+    <title>Indiana vs Florida International</title>
+    <desc>Scheduled game between Indiana and Florida International</desc>
+  </programme>
+  <channel id="App State vs East Tennessee State">
+    <display-name>App State vs East Tennessee State</display-name>
+  </channel>
+  <programme start="2024-08-31 12:30:00" stop="2024-08-31 22:30:00" channel="App State vs East Tennessee State">
+    <title>App State vs East Tennessee State</title>
+    <desc>Scheduled game between App State and East Tennessee State</desc>
+  </programme>
+  <channel id="Ohio State vs Akron">
+    <display-name>Ohio State vs Akron</display-name>
+  </channel>
+  <programme start="2024-08-31 12:30:00" stop="2024-08-31 22:30:00" channel="Ohio State vs Akron">
+    <title>Ohio State vs Akron</title>
+    <desc>Scheduled game between Ohio State and Akron</desc>
+  </programme>
+  <channel id="Syracuse vs Ohio">
+    <display-name>Syracuse vs Ohio</display-name>
+  </channel>
+  <programme start="2024-08-31 12:30:00" stop="2024-08-31 22:30:00" channel="Syracuse vs Ohio">
+    <title>Syracuse vs Ohio</title>
+    <desc>Scheduled game between Syracuse and Ohio</desc>
+  </programme>
+  <channel id="Northern Illinois vs Western Illinois">
+    <display-name>Northern Illinois vs Western Illinois</display-name>
+  </channel>
+  <programme start="2024-08-31 12:30:00" stop="2024-08-31 22:30:00" channel="Northern Illinois vs Western Illinois">
+    <title>Northern Illinois vs Western Illinois</title>
+    <desc>Scheduled game between Northern Illinois and Western Illinois</desc>
+  </programme>
+  <channel id="Northwestern vs Miami (OH)">
+    <display-name>Northwestern vs Miami (OH)</display-name>
+  </channel>
+  <programme start="2024-08-31 12:30:00" stop="2024-08-31 22:30:00" channel="Northwestern vs Miami (OH)">
+    <title>Northwestern vs Miami (OH)</title>
+    <desc>Scheduled game between Northwestern and Miami (OH)</desc>
+  </programme>
+  <channel id="UTSA vs Kennesaw State">
+    <display-name>UTSA vs Kennesaw State</display-name>
+  </channel>
+  <programme start="2024-08-31 12:30:00" stop="2024-08-31 22:30:00" channel="UTSA vs Kennesaw State">
+    <title>UTSA vs Kennesaw State</title>
+    <desc>Scheduled game between UTSA and Kennesaw State</desc>
+  </programme>
+  <channel id="Florida vs Miami">
+    <display-name>Florida vs Miami</display-name>
+  </channel>
+  <programme start="2024-08-31 12:30:00" stop="2024-08-31 22:30:00" channel="Florida vs Miami">
+    <title>Florida vs Miami</title>
+    <desc>Scheduled game between Florida and Miami</desc>
+  </programme>
+  <channel id="Iowa State vs North Dakota">
+    <display-name>Iowa State vs North Dakota</display-name>
+  </channel>
+  <programme start="2024-08-31 12:30:00" stop="2024-08-31 22:30:00" channel="Iowa State vs North Dakota">
+    <title>Iowa State vs North Dakota</title>
+    <desc>Scheduled game between Iowa State and North Dakota</desc>
+  </programme>
+  <channel id="Nebraska vs UTEP">
+    <display-name>Nebraska vs UTEP</display-name>
+  </channel>
+  <programme start="2024-08-31 12:30:00" stop="2024-08-31 22:30:00" channel="Nebraska vs UTEP">
+    <title>Nebraska vs UTEP</title>
+    <desc>Scheduled game between Nebraska and UTEP</desc>
+  </programme>
+  <channel id="Air Force vs Merrimack">
+    <display-name>Air Force vs Merrimack</display-name>
+  </channel>
+  <programme start="2024-08-31 12:30:00" stop="2024-08-31 22:30:00" channel="Air Force vs Merrimack">
+    <title>Air Force vs Merrimack</title>
+    <desc>Scheduled game between Air Force and Merrimack</desc>
+  </programme>
+  <channel id="Texas vs Colorado State">
+    <display-name>Texas vs Colorado State</display-name>
+  </channel>
+  <programme start="2024-08-31 12:30:00" stop="2024-08-31 22:30:00" channel="Texas vs Colorado State">
+    <title>Texas vs Colorado State</title>
+    <desc>Scheduled game between Texas and Colorado State</desc>
+  </programme>
+  <channel id="Massachusetts vs Eastern Michigan">
+    <display-name>Massachusetts vs Eastern Michigan</display-name>
+  </channel>
+  <programme start="2024-08-31 12:30:00" stop="2024-08-31 22:30:00" channel="Massachusetts vs Eastern Michigan">
+    <title>Massachusetts vs Eastern Michigan</title>
+    <desc>Scheduled game between Massachusetts and Eastern Michigan</desc>
+  </programme>
+  <channel id="Fort Lewis vs William Jewell">
+    <display-name>Fort Lewis vs William Jewell</display-name>
+  </channel>
+  <programme start="2024-08-31 13:00:00" stop="2024-08-31 23:00:00" channel="Fort Lewis vs William Jewell">
+    <title>Fort Lewis vs William Jewell</title>
+    <desc>Scheduled game between Fort Lewis and William Jewell</desc>
+  </programme>
+  <channel id="Georgia Southern vs Boise State">
+    <display-name>Georgia Southern vs Boise State</display-name>
+  </channel>
+  <programme start="2024-08-31 13:00:00" stop="2024-08-31 23:00:00" channel="Georgia Southern vs Boise State">
+    <title>Georgia Southern vs Boise State</title>
+    <desc>Scheduled game between Georgia Southern and Boise State</desc>
+  </programme>
+  <channel id="Northern Arizona vs Lincoln (CA)">
+    <display-name>Northern Arizona vs Lincoln (CA)</display-name>
+  </channel>
+  <programme start="2024-08-31 13:00:00" stop="2024-08-31 23:00:00" channel="Northern Arizona vs Lincoln (CA)">
+    <title>Northern Arizona vs Lincoln (CA)</title>
+    <desc>Scheduled game between Northern Arizona and Lincoln (CA)</desc>
+  </programme>
+  <channel id="South Carolina vs Old Dominion">
+    <display-name>South Carolina vs Old Dominion</display-name>
+  </channel>
+  <programme start="2024-08-31 13:15:00" stop="2024-08-31 23:15:00" channel="South Carolina vs Old Dominion">
+    <title>South Carolina vs Old Dominion</title>
+    <desc>Scheduled game between South Carolina and Old Dominion</desc>
+  </programme>
+  <channel id="Marshall vs Stony Brook">
+    <display-name>Marshall vs Stony Brook</display-name>
+  </channel>
+  <programme start="2024-08-31 14:00:00" stop="2024-09-01 00:00:00" channel="Marshall vs Stony Brook">
+    <title>Marshall vs Stony Brook</title>
+    <desc>Scheduled game between Marshall and Stony Brook</desc>
+  </programme>
+  <channel id="California vs UC Davis">
+    <display-name>California vs UC Davis</display-name>
+  </channel>
+  <programme start="2024-08-31 14:00:00" stop="2024-09-01 00:00:00" channel="California vs UC Davis">
+    <title>California vs UC Davis</title>
+    <desc>Scheduled game between California and UC Davis</desc>
+  </programme>
+  <channel id="South Alabama vs North Texas">
+    <display-name>South Alabama vs North Texas</display-name>
+  </channel>
+  <programme start="2024-08-31 14:00:00" stop="2024-09-01 00:00:00" channel="South Alabama vs North Texas">
+    <title>South Alabama vs North Texas</title>
+    <desc>Scheduled game between South Alabama and North Texas</desc>
+  </programme>
+  <channel id="Northern Iowa vs Valparaiso">
+    <display-name>Northern Iowa vs Valparaiso</display-name>
+  </channel>
+  <programme start="2024-08-31 14:00:00" stop="2024-09-01 00:00:00" channel="Northern Iowa vs Valparaiso">
+    <title>Northern Iowa vs Valparaiso</title>
+    <desc>Scheduled game between Northern Iowa and Valparaiso</desc>
+  </programme>
+  <channel id="Mississippi State vs Eastern Kentucky">
+    <display-name>Mississippi State vs Eastern Kentucky</display-name>
+  </channel>
+  <programme start="2024-08-31 15:00:00" stop="2024-09-01 01:00:00" channel="Mississippi State vs Eastern Kentucky">
+    <title>Mississippi State vs Eastern Kentucky</title>
+    <desc>Scheduled game between Mississippi State and Eastern Kentucky</desc>
+  </programme>
+  <channel id="Florida A&amp;M vs South Carolina State">
+    <display-name>Florida A&amp;M vs South Carolina State</display-name>
+  </channel>
+  <programme start="2024-08-31 15:00:00" stop="2024-09-01 01:00:00" channel="Florida A&amp;M vs South Carolina State">
+    <title>Florida A&amp;M vs South Carolina State</title>
+    <desc>Scheduled game between Florida A&amp;M and South Carolina State</desc>
+  </programme>
+  <channel id="East Carolina vs Norfolk State">
+    <display-name>East Carolina vs Norfolk State</display-name>
+  </channel>
+  <programme start="2024-08-31 15:00:00" stop="2024-09-01 01:00:00" channel="East Carolina vs Norfolk State">
+    <title>East Carolina vs Norfolk State</title>
+    <desc>Scheduled game between East Carolina and Norfolk State</desc>
+  </programme>
+  <channel id="Hampton vs Morgan State">
+    <display-name>Hampton vs Morgan State</display-name>
+  </channel>
+  <programme start="2024-08-31 15:00:00" stop="2024-09-01 01:00:00" channel="Hampton vs Morgan State">
+    <title>Hampton vs Morgan State</title>
+    <desc>Scheduled game between Hampton and Morgan State</desc>
+  </programme>
+  <channel id="Sacred Heart vs Delaware State">
+    <display-name>Sacred Heart vs Delaware State</display-name>
+  </channel>
+  <programme start="2024-08-31 15:00:00" stop="2024-09-01 01:00:00" channel="Sacred Heart vs Delaware State">
+    <title>Sacred Heart vs Delaware State</title>
+    <desc>Scheduled game between Sacred Heart and Delaware State</desc>
+  </programme>
+  <channel id="West Georgia vs Samford">
+    <display-name>West Georgia vs Samford</display-name>
+  </channel>
+  <programme start="2024-08-31 15:00:00" stop="2024-09-01 01:00:00" channel="West Georgia vs Samford">
+    <title>West Georgia vs Samford</title>
+    <desc>Scheduled game between West Georgia and Samford</desc>
+  </programme>
+  <channel id="Charleston Southern vs The Citadel">
+    <display-name>Charleston Southern vs The Citadel</display-name>
+  </channel>
+  <programme start="2024-08-31 15:00:00" stop="2024-09-01 01:00:00" channel="Charleston Southern vs The Citadel">
+    <title>Charleston Southern vs The Citadel</title>
+    <desc>Scheduled game between Charleston Southern and The Citadel</desc>
+  </programme>
+  <channel id="UNC Pembroke vs Wingate">
+    <display-name>UNC Pembroke vs Wingate</display-name>
+  </channel>
+  <programme start="2024-08-31 15:00:00" stop="2024-09-01 01:00:00" channel="UNC Pembroke vs Wingate">
+    <title>UNC Pembroke vs Wingate</title>
+    <desc>Scheduled game between UNC Pembroke and Wingate</desc>
+  </programme>
+  <channel id="Virginia vs Richmond">
+    <display-name>Virginia vs Richmond</display-name>
+  </channel>
+  <programme start="2024-08-31 15:00:00" stop="2024-09-01 01:00:00" channel="Virginia vs Richmond">
+    <title>Virginia vs Richmond</title>
+    <desc>Scheduled game between Virginia and Richmond</desc>
+  </programme>
+  <channel id="Tennessee State vs Mississippi Valley State">
+    <display-name>Tennessee State vs Mississippi Valley State</display-name>
+  </channel>
+  <programme start="2024-08-31 15:00:00" stop="2024-09-01 01:00:00" channel="Tennessee State vs Mississippi Valley State">
+    <title>Tennessee State vs Mississippi Valley State</title>
+    <desc>Scheduled game between Tennessee State and Mississippi Valley State</desc>
+  </programme>
+  <channel id="Livingstone vs University Of Charleston (WV)">
+    <display-name>Livingstone vs University Of Charleston (WV)</display-name>
+  </channel>
+  <programme start="2024-08-31 15:00:00" stop="2024-09-01 01:00:00" channel="Livingstone vs University Of Charleston (WV)">
+    <title>Livingstone vs University Of Charleston (WV)</title>
+    <desc>Scheduled game between Livingstone and University Of Charleston (WV)</desc>
+  </programme>
+  <channel id="Liberty vs Campbell">
+    <display-name>Liberty vs Campbell</display-name>
+  </channel>
+  <programme start="2024-08-31 15:00:00" stop="2024-09-01 01:00:00" channel="Liberty vs Campbell">
+    <title>Liberty vs Campbell</title>
+    <desc>Scheduled game between Liberty and Campbell</desc>
+  </programme>
+  <channel id="Stetson vs Ave Maria University">
+    <display-name>Stetson vs Ave Maria University</display-name>
+  </channel>
+  <programme start="2024-08-31 15:00:00" stop="2024-09-01 01:00:00" channel="Stetson vs Ave Maria University">
+    <title>Stetson vs Ave Maria University</title>
+    <desc>Scheduled game between Stetson and Ave Maria University</desc>
+  </programme>
+  <channel id="Oregon State vs Idaho State">
+    <display-name>Oregon State vs Idaho State</display-name>
+  </channel>
+  <programme start="2024-08-31 15:30:00" stop="2024-09-01 01:30:00" channel="Oregon State vs Idaho State">
+    <title>Oregon State vs Idaho State</title>
+    <desc>Scheduled game between Oregon State and Idaho State</desc>
+  </programme>
+  <channel id="West Alabama vs Miles College">
+    <display-name>West Alabama vs Miles College</display-name>
+  </channel>
+  <programme start="2024-08-31 16:00:00" stop="2024-09-01 02:00:00" channel="West Alabama vs Miles College">
+    <title>West Alabama vs Miles College</title>
+    <desc>Scheduled game between West Alabama and Miles College</desc>
+  </programme>
+  <channel id="Valdosta State vs Albany State GA">
+    <display-name>Valdosta State vs Albany State GA</display-name>
+  </channel>
+  <programme start="2024-08-31 16:00:00" stop="2024-09-01 02:00:00" channel="Valdosta State vs Albany State GA">
+    <title>Valdosta State vs Albany State GA</title>
+    <desc>Scheduled game between Valdosta State and Albany State GA</desc>
+  </programme>
+  <channel id="Rhode Island vs Holy Cross">
+    <display-name>Rhode Island vs Holy Cross</display-name>
+  </channel>
+  <programme start="2024-08-31 16:00:00" stop="2024-09-01 02:00:00" channel="Rhode Island vs Holy Cross">
+    <title>Rhode Island vs Holy Cross</title>
+    <desc>Scheduled game between Rhode Island and Holy Cross</desc>
+  </programme>
+  <channel id="Incarnate Word vs Northern Colorado">
+    <display-name>Incarnate Word vs Northern Colorado</display-name>
+  </channel>
+  <programme start="2024-08-31 16:00:00" stop="2024-09-01 02:00:00" channel="Incarnate Word vs Northern Colorado">
+    <title>Incarnate Word vs Northern Colorado</title>
+    <desc>Scheduled game between Incarnate Word and Northern Colorado</desc>
+  </programme>
+  <channel id="Alabama vs Western Kentucky">
+    <display-name>Alabama vs Western Kentucky</display-name>
+  </channel>
+  <programme start="2024-08-31 16:00:00" stop="2024-09-01 02:00:00" channel="Alabama vs Western Kentucky">
+    <title>Alabama vs Western Kentucky</title>
+    <desc>Scheduled game between Alabama and Western Kentucky</desc>
+  </programme>
+  <channel id="Baylor vs Tarleton State">
+    <display-name>Baylor vs Tarleton State</display-name>
+  </channel>
+  <programme start="2024-08-31 16:00:00" stop="2024-09-01 02:00:00" channel="Baylor vs Tarleton State">
+    <title>Baylor vs Tarleton State</title>
+    <desc>Scheduled game between Baylor and Tarleton State</desc>
+  </programme>
+  <channel id="Memphis vs North Alabama">
+    <display-name>Memphis vs North Alabama</display-name>
+  </channel>
+  <programme start="2024-08-31 16:00:00" stop="2024-09-01 02:00:00" channel="Memphis vs North Alabama">
+    <title>Memphis vs North Alabama</title>
+    <desc>Scheduled game between Memphis and North Alabama</desc>
+  </programme>
+  <channel id="Ole Miss vs Furman">
+    <display-name>Ole Miss vs Furman</display-name>
+  </channel>
+  <programme start="2024-08-31 16:00:00" stop="2024-09-01 02:00:00" channel="Ole Miss vs Furman">
+    <title>Ole Miss vs Furman</title>
+    <desc>Scheduled game between Ole Miss and Furman</desc>
+  </programme>
+  <channel id="UT Permian Basin vs Western New Mexico">
+    <display-name>UT Permian Basin vs Western New Mexico</display-name>
+  </channel>
+  <programme start="2024-08-31 16:00:00" stop="2024-09-01 02:00:00" channel="UT Permian Basin vs Western New Mexico">
+    <title>UT Permian Basin vs Western New Mexico</title>
+    <desc>Scheduled game between UT Permian Basin and Western New Mexico</desc>
+  </programme>
+  <channel id="Arkansas State vs Central Arkansas">
+    <display-name>Arkansas State vs Central Arkansas</display-name>
+  </channel>
+  <programme start="2024-08-31 16:00:00" stop="2024-09-01 02:00:00" channel="Arkansas State vs Central Arkansas">
+    <title>Arkansas State vs Central Arkansas</title>
+    <desc>Scheduled game between Arkansas State and Central Arkansas</desc>
+  </programme>
+  <channel id="Prairie View A&amp;M vs Texas Southern">
+    <display-name>Prairie View A&amp;M vs Texas Southern</display-name>
+  </channel>
+  <programme start="2024-08-31 16:00:00" stop="2024-09-01 02:00:00" channel="Prairie View A&amp;M vs Texas Southern">
+    <title>Prairie View A&amp;M vs Texas Southern</title>
+    <desc>Scheduled game between Prairie View A&amp;M and Texas Southern</desc>
+  </programme>
+  <channel id="Rice vs Sam Houston">
+    <display-name>Rice vs Sam Houston</display-name>
+  </channel>
+  <programme start="2024-08-31 16:00:00" stop="2024-09-01 02:00:00" channel="Rice vs Sam Houston">
+    <title>Rice vs Sam Houston</title>
+    <desc>Scheduled game between Rice and Sam Houston</desc>
+  </programme>
+  <channel id="UAlbany vs Long Island University">
+    <display-name>UAlbany vs Long Island University</display-name>
+  </channel>
+  <programme start="2024-08-31 16:00:00" stop="2024-09-01 02:00:00" channel="UAlbany vs Long Island University">
+    <title>UAlbany vs Long Island University</title>
+    <desc>Scheduled game between UAlbany and Long Island University</desc>
+  </programme>
+  <channel id="Houston vs UNLV">
+    <display-name>Houston vs UNLV</display-name>
+  </channel>
+  <programme start="2024-08-31 16:00:00" stop="2024-09-01 02:00:00" channel="Houston vs UNLV">
+    <title>Houston vs UNLV</title>
+    <desc>Scheduled game between Houston and UNLV</desc>
+  </programme>
+  <channel id="Troy vs Nevada">
+    <display-name>Troy vs Nevada</display-name>
+  </channel>
+  <programme start="2024-08-31 16:00:00" stop="2024-09-01 02:00:00" channel="Troy vs Nevada">
+    <title>Troy vs Nevada</title>
+    <desc>Scheduled game between Troy and Nevada</desc>
+  </programme>
+  <channel id="South Florida vs Bethune-Cookman">
+    <display-name>South Florida vs Bethune-Cookman</display-name>
+  </channel>
+  <programme start="2024-08-31 16:00:00" stop="2024-09-01 02:00:00" channel="South Florida vs Bethune-Cookman">
+    <title>South Florida vs Bethune-Cookman</title>
+    <desc>Scheduled game between South Florida and Bethune-Cookman</desc>
+  </programme>
+  <channel id="Middle Tennessee vs Tennessee Tech">
+    <display-name>Middle Tennessee vs Tennessee Tech</display-name>
+  </channel>
+  <programme start="2024-08-31 16:00:00" stop="2024-09-01 02:00:00" channel="Middle Tennessee vs Tennessee Tech">
+    <title>Middle Tennessee vs Tennessee Tech</title>
+    <desc>Scheduled game between Middle Tennessee and Tennessee Tech</desc>
+  </programme>
+  <channel id="Kansas State vs UT Martin">
+    <display-name>Kansas State vs UT Martin</display-name>
+  </channel>
+  <programme start="2024-08-31 16:00:00" stop="2024-09-01 02:00:00" channel="Kansas State vs UT Martin">
+    <title>Kansas State vs UT Martin</title>
+    <desc>Scheduled game between Kansas State and UT Martin</desc>
+  </programme>
+  <channel id="Hawai'i vs UCLA">
+    <display-name>Hawai'i vs UCLA</display-name>
+  </channel>
+  <programme start="2024-08-31 16:30:00" stop="2024-09-01 02:30:00" channel="Hawai'i vs UCLA">
+    <title>Hawai'i vs UCLA</title>
+    <desc>Scheduled game between Hawai'i and UCLA</desc>
+  </programme>
+  <channel id="Michigan vs Fresno State">
+    <display-name>Michigan vs Fresno State</display-name>
+  </channel>
+  <programme start="2024-08-31 16:30:00" stop="2024-09-01 02:30:00" channel="Michigan vs Fresno State">
+    <title>Michigan vs Fresno State</title>
+    <desc>Scheduled game between Michigan and Fresno State</desc>
+  </programme>
+  <channel id="Auburn vs Alabama A&amp;M">
+    <display-name>Auburn vs Alabama A&amp;M</display-name>
+  </channel>
+  <programme start="2024-08-31 16:30:00" stop="2024-09-01 02:30:00" channel="Auburn vs Alabama A&amp;M">
+    <title>Auburn vs Alabama A&amp;M</title>
+    <desc>Scheduled game between Auburn and Alabama A&amp;M</desc>
+  </programme>
+  <channel id="Texas A&amp;M vs Notre Dame">
+    <display-name>Texas A&amp;M vs Notre Dame</display-name>
+  </channel>
+  <programme start="2024-08-31 16:30:00" stop="2024-09-01 02:30:00" channel="Texas A&amp;M vs Notre Dame">
+    <title>Texas A&amp;M vs Notre Dame</title>
+    <desc>Scheduled game between Texas A&amp;M and Notre Dame</desc>
+  </programme>
+  <channel id="Texas Tech vs Abilene Christian">
+    <display-name>Texas Tech vs Abilene Christian</display-name>
+  </channel>
+  <programme start="2024-08-31 16:30:00" stop="2024-09-01 02:30:00" channel="Texas Tech vs Abilene Christian">
+    <title>Texas Tech vs Abilene Christian</title>
+    <desc>Scheduled game between Texas Tech and Abilene Christian</desc>
+  </programme>
+  <channel id="Oregon vs Idaho">
+    <display-name>Oregon vs Idaho</display-name>
+  </channel>
+  <programme start="2024-08-31 16:30:00" stop="2024-09-01 02:30:00" channel="Oregon vs Idaho">
+    <title>Oregon vs Idaho</title>
+    <desc>Scheduled game between Oregon and Idaho</desc>
+  </programme>
+  <channel id="Kentucky vs Southern Miss">
+    <display-name>Kentucky vs Southern Miss</display-name>
+  </channel>
+  <programme start="2024-08-31 16:45:00" stop="2024-09-01 02:45:00" channel="Kentucky vs Southern Miss">
+    <title>Kentucky vs Southern Miss</title>
+    <desc>Scheduled game between Kentucky and Southern Miss</desc>
+  </programme>
+  <channel id="Georgia Tech vs Georgia State">
+    <display-name>Georgia Tech vs Georgia State</display-name>
+  </channel>
+  <programme start="2024-08-31 17:00:00" stop="2024-09-01 03:00:00" channel="Georgia Tech vs Georgia State">
+    <title>Georgia Tech vs Georgia State</title>
+    <desc>Scheduled game between Georgia Tech and Georgia State</desc>
+  </programme>
+  <channel id="Louisiana Tech vs Nicholls">
+    <display-name>Louisiana Tech vs Nicholls</display-name>
+  </channel>
+  <programme start="2024-08-31 17:00:00" stop="2024-09-01 03:00:00" channel="Louisiana Tech vs Nicholls">
+    <title>Louisiana Tech vs Nicholls</title>
+    <desc>Scheduled game between Louisiana Tech and Nicholls</desc>
+  </programme>
+  <channel id="Texas State vs Lamar">
+    <display-name>Texas State vs Lamar</display-name>
+  </channel>
+  <programme start="2024-08-31 17:00:00" stop="2024-09-01 03:00:00" channel="Texas State vs Lamar">
+    <title>Texas State vs Lamar</title>
+    <desc>Scheduled game between Texas State and Lamar</desc>
+  </programme>
+  <channel id="McNeese vs Southern">
+    <display-name>McNeese vs Southern</display-name>
+  </channel>
+  <programme start="2024-08-31 17:00:00" stop="2024-09-01 03:00:00" channel="McNeese vs Southern">
+    <title>McNeese vs Southern</title>
+    <desc>Scheduled game between McNeese and Southern</desc>
+  </programme>
+  <channel id="SMU vs Houston Christian">
+    <display-name>SMU vs Houston Christian</display-name>
+  </channel>
+  <programme start="2024-08-31 17:00:00" stop="2024-09-01 03:00:00" channel="SMU vs Houston Christian">
+    <title>SMU vs Houston Christian</title>
+    <desc>Scheduled game between SMU and Houston Christian</desc>
+  </programme>
+  <channel id="BYU vs Southern Illinois">
+    <display-name>BYU vs Southern Illinois</display-name>
+  </channel>
+  <programme start="2024-08-31 17:00:00" stop="2024-09-01 03:00:00" channel="BYU vs Southern Illinois">
+    <title>BYU vs Southern Illinois</title>
+    <desc>Scheduled game between BYU and Southern Illinois</desc>
+  </programme>
+  <channel id="Charlotte vs James Madison">
+    <display-name>Charlotte vs James Madison</display-name>
+  </channel>
+  <programme start="2024-08-31 17:00:00" stop="2024-09-01 03:00:00" channel="Charlotte vs James Madison">
+    <title>Charlotte vs James Madison</title>
+    <desc>Scheduled game between Charlotte and James Madison</desc>
+  </programme>
+  <channel id="San Diego vs Cal Poly">
+    <display-name>San Diego vs Cal Poly</display-name>
+  </channel>
+  <programme start="2024-08-31 17:00:00" stop="2024-09-01 03:00:00" channel="San Diego vs Cal Poly">
+    <title>San Diego vs Cal Poly</title>
+    <desc>Scheduled game between San Diego and Cal Poly</desc>
+  </programme>
+  <channel id="San Diego State vs Texas A&amp;M-Commerce">
+    <display-name>San Diego State vs Texas A&amp;M-Commerce</display-name>
+  </channel>
+  <programme start="2024-08-31 17:00:00" stop="2024-09-01 03:00:00" channel="San Diego State vs Texas A&amp;M-Commerce">
+    <title>San Diego State vs Texas A&amp;M-Commerce</title>
+    <desc>Scheduled game between San Diego State and Texas A&amp;M-Commerce</desc>
+  </programme>
+  <channel id="Pittsburg St vs Ferris State">
+    <display-name>Pittsburg St vs Ferris State</display-name>
+  </channel>
+  <programme start="2024-08-31 17:00:00" stop="2024-09-01 03:00:00" channel="Pittsburg St vs Ferris State">
+    <title>Pittsburg St vs Ferris State</title>
+    <desc>Scheduled game between Pittsburg St and Ferris State</desc>
+  </programme>
+  <channel id="Louisiana vs Grambling">
+    <display-name>Louisiana vs Grambling</display-name>
+  </channel>
+  <programme start="2024-08-31 17:00:00" stop="2024-09-01 03:00:00" channel="Louisiana vs Grambling">
+    <title>Louisiana vs Grambling</title>
+    <desc>Scheduled game between Louisiana and Grambling</desc>
+  </programme>
+  <channel id="Montana vs Missouri State">
+    <display-name>Montana vs Missouri State</display-name>
+  </channel>
+  <programme start="2024-08-31 18:00:00" stop="2024-09-01 04:00:00" channel="Montana vs Missouri State">
+    <title>Montana vs Missouri State</title>
+    <desc>Scheduled game between Montana and Missouri State</desc>
+  </programme>
+  <channel id="New Mexico State vs Southeast Missouri State">
+    <display-name>New Mexico State vs Southeast Missouri State</display-name>
+  </channel>
+  <programme start="2024-08-31 18:00:00" stop="2024-09-01 04:00:00" channel="New Mexico State vs Southeast Missouri State">
+    <title>New Mexico State vs Southeast Missouri State</title>
+    <desc>Scheduled game between New Mexico State and Southeast Missouri State</desc>
+  </programme>
+  <channel id="Utah Tech vs Montana State">
+    <display-name>Utah Tech vs Montana State</display-name>
+  </channel>
+  <programme start="2024-08-31 19:00:00" stop="2024-09-01 05:00:00" channel="Utah Tech vs Montana State">
+    <title>Utah Tech vs Montana State</title>
+    <desc>Scheduled game between Utah Tech and Montana State</desc>
+  </programme>
+  <channel id="Arizona vs New Mexico">
+    <display-name>Arizona vs New Mexico</display-name>
+  </channel>
+  <programme start="2024-08-31 19:30:00" stop="2024-09-01 05:30:00" channel="Arizona vs New Mexico">
+    <title>Arizona vs New Mexico</title>
+    <desc>Scheduled game between Arizona and New Mexico</desc>
+  </programme>
+  <channel id="Arizona State vs Wyoming">
+    <display-name>Arizona State vs Wyoming</display-name>
+  </channel>
+  <programme start="2024-08-31 19:30:00" stop="2024-09-01 05:30:00" channel="Arizona State vs Wyoming">
+    <title>Arizona State vs Wyoming</title>
+    <desc>Scheduled game between Arizona State and Wyoming</desc>
+  </programme>
+  <channel id="Washington vs Weber State">
+    <display-name>Washington vs Weber State</display-name>
+  </channel>
+  <programme start="2024-08-31 20:00:00" stop="2024-09-01 06:00:00" channel="Washington vs Weber State">
+    <title>Washington vs Weber State</title>
+    <desc>Scheduled game between Washington and Weber State</desc>
+  </programme>
+  <channel id="Alabama State vs North Carolina Central">
+    <display-name>Alabama State vs North Carolina Central</display-name>
+  </channel>
+  <programme start="2024-09-01 12:00:00" stop="2024-09-01 22:00:00" channel="Alabama State vs North Carolina Central">
+    <title>Alabama State vs North Carolina Central</title>
+    <desc>Scheduled game between Alabama State and North Carolina Central</desc>
+  </programme>
+  <channel id="Virginia St vs Benedict College">
+    <display-name>Virginia St vs Benedict College</display-name>
+  </channel>
+  <programme start="2024-09-01 13:00:00" stop="2024-09-01 23:00:00" channel="Virginia St vs Benedict College">
+    <title>Virginia St vs Benedict College</title>
+    <desc>Scheduled game between Virginia St and Benedict College</desc>
+  </programme>
+  <channel id="Johnson C Smith vs Tuskegee">
+    <display-name>Johnson C Smith vs Tuskegee</display-name>
+  </channel>
+  <programme start="2024-09-01 16:00:00" stop="2024-09-02 02:00:00" channel="Johnson C Smith vs Tuskegee">
+    <title>Johnson C Smith vs Tuskegee</title>
+    <desc>Scheduled game between Johnson C Smith and Tuskegee</desc>
+  </programme>
+  <channel id="LSU vs USC">
+    <display-name>LSU vs USC</display-name>
+  </channel>
+  <programme start="2024-09-01 16:30:00" stop="2024-09-02 02:30:00" channel="LSU vs USC">
+    <title>LSU vs USC</title>
+    <desc>Scheduled game between LSU and USC</desc>
+  </programme>
+  <channel id="Florida State vs Boston College">
+    <display-name>Florida State vs Boston College</display-name>
+  </channel>
+  <programme start="2024-09-02 16:30:00" stop="2024-09-03 02:30:00" channel="Florida State vs Boston College">
+    <title>Florida State vs Boston College</title>
+    <desc>Scheduled game between Florida State and Boston College</desc>
+  </programme>
+</tv>

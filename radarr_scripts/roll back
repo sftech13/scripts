@@ -1,0 +1,8 @@
+sudo su -
+bash <(curl -sL https://gist.github.com/brettpetch/92469874f169fa1527efaf874338b659/raw/6fcc99813f0def5f252a27024354283a0a53a8cc/downgrade.sh) 1.23.6.4863-6b3792414
+
+
+
+
+
+

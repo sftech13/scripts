@@ -17,5 +17,4 @@ sudo apt install -y /tmp/iptvboss_latest.deb
 
 # Clean up the downloaded package
 rm /tmp/iptvboss_latest.deb
-#terst
 
